@@ -1,0 +1,28 @@
+.nb{
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    background-color: red;
+}
+.nb-box{
+    width: 80%;
+    margin: auto;
+}
+.logo-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    width: 40px;
+    background-color: white;
+    color: red;
+    border-radius: 50%;
+    font-size: 26px;
+    cursor: pointer;
+
+}
+.bodybox{
+    display: flex;
+    gap: 1rem;
+    border: 2px solid blue;
+    padding: 0.5rem;
+}
